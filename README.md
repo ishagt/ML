@@ -1,5 +1,6 @@
 # ML
-Assignments of ML
+Assignment of ML
+Applying Multiple Linear Regression to develop a machine learning model to predict final internal marks using following dataset behavioral_indicators_internal_marks.csv. Below are errors caluclated during model training and testing.
 
 Mean Absolute Error (MAE): 2.0002
 
